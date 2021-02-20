@@ -62,7 +62,6 @@ if (grade >= 80) {
 console.log(`>>> Overall Grade: ${grade}% (${answersCorrect} of ${correctAnswers.length} responses correct) <<<`);
 console.log(`>>> Status: ${result} <<<`);
 
-
   return grade;
 }
 
